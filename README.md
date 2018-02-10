@@ -9,3 +9,4 @@
 - [06](./challenges/06.js)
 - [07](./challenges/07.js)
 - [08](./challenges/08.js)
+- [09](./challenges/09.js)
