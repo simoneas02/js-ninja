@@ -10,3 +10,4 @@
 - [07](./challenges/07.js)
 - [08](./challenges/08.js)
 - [09](./challenges/09.js)
+- [10](./challenges/10.js)
