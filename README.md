@@ -7,3 +7,4 @@
 - [04](./challenges/04.md)
 - [05](./challenges/05.js)
 - [06](./challenges/06.js)
+- [07](./challenges/07.js)
