@@ -12,3 +12,4 @@
 - [09 - Escopo de funções, Hoisting, IIFE - Immediately Invoked Function Expression](./challenges/09.js)
 - [10 - Wrapper Objects, typeof](./challenges/10.js)
 - [11 - Laços (Loops), Saltos](./challenges/11.js)
+- [12 - Criação de objetos, Criação de objetos - Object.create, Métodos de objeto, Array - Métodos](./challenges/12.js)
