@@ -11,3 +11,4 @@
 - [08 - A importância de nomear funções, Introdução à Functional Programming](./challenges/08.js)
 - [09 - Escopo de funções, Hoisting, IIFE - Immediately Invoked Function Expression](./challenges/09.js)
 - [10 - Wrapper Objects, typeof](./challenges/10.js)
+- [11 - Laços (Loops), Saltos](./challenges/11.js)
