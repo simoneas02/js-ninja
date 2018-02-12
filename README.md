@@ -15,5 +15,5 @@
 - [12 - Criação de objetos, Criação de objetos - Object.create, Métodos de objeto, Array - Métodos](./challenges/12.js)
 - [13 - Array - toString, concat, unshift, shift, slice e splice, forEach, every, some, map, filter](./challenges/13.js)
 - [14 - reduce() e reduceRight(), indexOf(), lastIndexOf() e isArray()](./challenges/14.js)
-- [15 - JS no browser, Objeto this, Objeto arguments](./challenges/15/15.js)
-- [16 - use strict - Criação de variáveis sem o "var", use strict - Uso do width e global this === undefined, O operador delete, objetos e funções, Objeto String](./challenges/16/16.js)
+- [15 - JS no browser, Objeto this, Objeto arguments](./challenges/15/index.html)
+- [16 - use strict - Criação de variáveis sem o "var", use strict - Uso do width e global this === undefined, O operador delete, objetos e funções, Objeto String](./challenges/16/index.html)
