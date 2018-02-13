@@ -19,3 +19,4 @@
 - [16 - use strict - Criação de variáveis sem o "var", use strict - Uso do width e global this === undefined, O operador delete, objetos e funções, Objeto String](./challenges/16/main.js)
 - [17 - Regex](./challenges/17/main.js)
 - [18 - Regex - Negação, Regex - Repetidores](./challenges/18/main.js)
+- [19 - Conhecendo outros símbolos usados na Regex, Métodos de string onde podemos usar regex, o objeto RegExp()](./challenges/19/main.js)
