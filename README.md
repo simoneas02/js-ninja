@@ -22,3 +22,4 @@
 - [19 - Conhecendo outros símbolos usados na Regex, Métodos de string onde podemos usar regex, o objeto RegExp()](./challenges/19/main.js)
 - [20 - Js no browser - Selecionar elementos no DOM, Js no browser - Formulário e eventos](./challenges/20/main.js)
 - [21 - Sync vs async, setTimeout, setTimeout vs setInterval](./challenges/timer/main.js)
+- [22 - Propriedades e métodos de funções, Prototype, Array-like e editorconfig](./challenges/22/main.js)
