@@ -23,3 +23,4 @@
 - [20 - Js no browser - Selecionar elementos no DOM, Js no browser - Formulário e eventos](./challenges/20/main.js)
 - [21 - Sync vs async, setTimeout, setTimeout vs setInterval](./challenges/timer/main.js)
 - [22 - Propriedades e métodos de funções, Prototype, Array-like e editorconfig](./challenges/22/main.js)
+- [23 - Debug](./challenges/calculator/main.js)
