@@ -24,3 +24,4 @@
 - [21 - Sync vs async, setTimeout, setTimeout vs setInterval](./challenges/timer/main.js)
 - [22 - Propriedades e métodos de funções, Prototype, Array-like e editorconfig](./challenges/22/main.js)
 - [23 - Debug](./challenges/calculator/main.js)
+- [24 - Modularização de código](./challenges/calculator-refactor/main.js)
