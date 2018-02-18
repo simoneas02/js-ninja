@@ -26,3 +26,4 @@
 - [23 - Debug](./challenges/calculator/main.js)
 - [24 - Modularização de código](./challenges/calculator-refactor/main.js)
 - [25 - Javascript inline, Eventos inline, Remover eventos e Eventos como métodos](./challenges/25/main.js)
+- [26 - DOM](./challenges/DOMLib/js/main.js)
