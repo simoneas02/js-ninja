@@ -28,3 +28,4 @@
 - [25 - Javascript inline, Eventos inline, Remover eventos e Eventos como métodos](./challenges/25/main.js)
 - [26 - DOM](./challenges/DOMLib/js/main.js)
 - [27 - documentFragments, Dicas de performance, Eventos para carregamento da tela, Copiar arrays e Pegar tipo correto de objetos](./challenges/27/js/main.js)
+- [28 - Ajax - método GET, try / catch e Tratamento de dados via entrada do usuário](./challenges/searchCEP/js/main.js)
